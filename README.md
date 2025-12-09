@@ -6,7 +6,7 @@ A modern and interactive Power BI dashboard designed to analyze **ATM operations
 
 ## 📊 Dashboard Preview
 
-![ATM Dashboard](dash.jpg)
+![ATM Dashboard](https://github.com/shxuvik/ATM-Dashboard-PowerBI/blob/255430d101ea59ea24ef8f57e611ef67c5f143e8/Icon/dash.jpg)
 
 ---
 
